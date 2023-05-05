@@ -1,7 +1,7 @@
 package demo.dataAccess;
 
 import demo.entity.Category;
-
+//buna interface oluştursaydın daha iyi olurdu. Çünki business katmanı ile bağlantı yaptığın zaman loosly couple olması gerekecek
 public class CategoryDao {
 	
 
